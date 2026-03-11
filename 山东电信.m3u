@@ -1,0 +1,327 @@
+#EXTM3U x-tvg-url="https://epg.zbds.top"
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV1综合" tvg-logo="https://livecdn.zbds.org/logo/CCTV1综合.png" epg-url="https://epg.zbds.top",CCTV1综合
+http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV2财经" tvg-logo="https://livecdn.zbds.org/logo/CCTV2财经.png" epg-url="https://epg.zbds.top",CCTV2财经
+http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV3综艺" tvg-logo="https://livecdn.zbds.org/logo/CCTV3综艺.png" epg-url="https://epg.zbds.top",CCTV3综艺
+http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV4中文国际" tvg-logo="https://livecdn.zbds.org/logo/CCTV4中文国际.png" epg-url="https://epg.zbds.top",CCTV4中文国际
+http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV4中文国际美洲" tvg-logo="https://livecdn.zbds.org/logo/CCTV4中文国际美洲.png" epg-url="https://epg.zbds.top",CCTV4中文国际美洲
+http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV4中文国际欧洲" tvg-logo="https://livecdn.zbds.org/logo/CCTV4中文国际欧洲.png" epg-url="https://epg.zbds.top",CCTV4中文国际欧洲
+http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV5体育" tvg-logo="https://livecdn.zbds.org/logo/CCTV5体育.png" epg-url="https://epg.zbds.top",CCTV5体育
+http://150.138.8.143/00/SNM/CHANNEL00000360/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV5+体育赛事" tvg-logo="https://livecdn.zbds.org/logo/CCTV5+体育赛事.png" epg-url="https://epg.zbds.top",CCTV5+体育赛事
+http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV6电影" tvg-logo="https://livecdn.zbds.org/logo/CCTV6电影.png" epg-url="https://epg.zbds.top",CCTV6电影
+http://150.138.8.143/00/SNM/CHANNEL00000361/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV7国防军事" tvg-logo="https://livecdn.zbds.org/logo/CCTV7国防军事.png" epg-url="https://epg.zbds.top",CCTV7国防军事
+http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV8电视剧" tvg-logo="https://livecdn.zbds.org/logo/CCTV8电视剧.png" epg-url="https://epg.zbds.top",CCTV8电视剧
+http://150.138.8.143/00/SNM/CHANNEL00000362/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV9纪录" tvg-logo="https://livecdn.zbds.org/logo/CCTV9纪录.png" epg-url="https://epg.zbds.top",CCTV9纪录
+http://150.138.8.143/00/SNM/CHANNEL00000319/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV10科教" tvg-logo="https://livecdn.zbds.org/logo/CCTV10科教.png" epg-url="https://epg.zbds.top",CCTV10科教
+http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV11戏曲" tvg-logo="https://livecdn.zbds.org/logo/CCTV11戏曲.png" epg-url="https://epg.zbds.top",CCTV11戏曲
+http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV12社会与法" tvg-logo="https://livecdn.zbds.org/logo/CCTV12社会与法.png" epg-url="https://epg.zbds.top",CCTV12社会与法
+http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV13新闻" tvg-logo="https://livecdn.zbds.org/logo/CCTV13新闻.png" epg-url="https://epg.zbds.top",CCTV13新闻
+http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV14少儿" tvg-logo="https://livecdn.zbds.org/logo/CCTV14少儿.png" epg-url="https://epg.zbds.top",CCTV14少儿
+http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV15音乐" tvg-logo="https://livecdn.zbds.org/logo/CCTV15音乐.png" epg-url="https://epg.zbds.top",CCTV15音乐
+http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV16奥林匹克" tvg-logo="https://livecdn.zbds.org/logo/CCTV16奥林匹克.png" epg-url="https://epg.zbds.top",CCTV16奥林匹克
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv16
+#EXTINF:-1 group-title="未分类" tvg-name="CCTV17农业农村" tvg-logo="https://livecdn.zbds.org/logo/CCTV17农业农村.png" epg-url="https://epg.zbds.top",CCTV17农业农村
+http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="山东教育" tvg-logo="https://livecdn.zbds.org/logo/山东教育.png" epg-url="https://epg.zbds.top",山东教育
+http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="卡酷少儿" tvg-logo="https://livecdn.zbds.org/logo/卡酷少儿.png" epg-url="https://epg.zbds.top",卡酷少儿
+http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="山东综艺" tvg-logo="https://livecdn.zbds.org/logo/山东综艺.png" epg-url="https://epg.zbds.top",山东综艺
+http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="山东体育" tvg-logo="https://livecdn.zbds.org/logo/山东体育.png" epg-url="https://epg.zbds.top",山东体育
+http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="山东齐鲁" tvg-logo="https://livecdn.zbds.org/logo/山东齐鲁.png" epg-url="https://epg.zbds.top",山东齐鲁
+http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="山东农科" tvg-logo="https://livecdn.zbds.org/logo/山东农科.png" epg-url="https://epg.zbds.top",山东农科
+http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="山东少儿" tvg-logo="https://livecdn.zbds.org/logo/山东少儿.png" epg-url="https://epg.zbds.top",山东少儿
+http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="山东生活" tvg-logo="https://livecdn.zbds.org/logo/山东生活.png" epg-url="https://epg.zbds.top",山东生活
+http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="山东文旅" tvg-logo="https://livecdn.zbds.org/logo/山东文旅.png" epg-url="https://epg.zbds.top",山东文旅
+http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="山东新闻" tvg-logo="https://livecdn.zbds.org/logo/山东新闻.png" epg-url="https://epg.zbds.top",山东新闻
+http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="山东卫视" tvg-logo="https://livecdn.zbds.org/logo/山东卫视.png" epg-url="https://epg.zbds.top",山东卫视
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=sdws
+#EXTINF:-1 group-title="未分类" tvg-name="山东卫视" tvg-logo="https://livecdn.zbds.org/logo/山东卫视.png" epg-url="https://epg.zbds.top",山东卫视
+http://150.138.8.143/00/SNM/CHANNEL20000003/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="浙江卫视" tvg-logo="https://livecdn.zbds.org/logo/浙江卫视.png" epg-url="https://epg.zbds.top",浙江卫视
+http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="湖南卫视" tvg-logo="https://livecdn.zbds.org/logo/湖南卫视.png" epg-url="https://epg.zbds.top",湖南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.org/logo/江苏卫视.png" epg-url="https://epg.zbds.top",江苏卫视
+http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="东方卫视" tvg-logo="https://livecdn.zbds.org/logo/东方卫视.png" epg-url="https://epg.zbds.top",东方卫视
+http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="北京卫视" tvg-logo="https://livecdn.zbds.org/logo/北京卫视.png" epg-url="https://epg.zbds.top",北京卫视
+http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="安徽卫视" tvg-logo="https://livecdn.zbds.org/logo/安徽卫视.png" epg-url="https://epg.zbds.top",安徽卫视
+http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="深圳卫视" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视.png" epg-url="https://epg.zbds.top",深圳卫视
+http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="河南卫视" tvg-logo="https://livecdn.zbds.org/logo/河南卫视.png" epg-url="https://epg.zbds.top",河南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000358/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="贵州卫视" tvg-logo="https://livecdn.zbds.org/logo/贵州卫视.png" epg-url="https://epg.zbds.top",贵州卫视
+http://150.138.8.143/00/SNM/CHANNEL00000329/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="湖北卫视" tvg-logo="https://livecdn.zbds.org/logo/湖北卫视.png" epg-url="https://epg.zbds.top",湖北卫视
+http://150.138.8.143/00/SNM/CHANNEL00000325/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="广东卫视" tvg-logo="https://livecdn.zbds.org/logo/广东卫视.png" epg-url="https://epg.zbds.top",广东卫视
+http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="天津卫视" tvg-logo="https://livecdn.zbds.org/logo/天津卫视.png" epg-url="https://epg.zbds.top",天津卫视
+http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="重庆卫视" tvg-logo="https://livecdn.zbds.org/logo/重庆卫视.png" epg-url="https://epg.zbds.top",重庆卫视
+http://150.138.8.143/00/SNM/CHANNEL00000341/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="辽宁卫视" tvg-logo="https://livecdn.zbds.org/logo/辽宁卫视.png" epg-url="https://epg.zbds.top",辽宁卫视
+http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="广西卫视" tvg-logo="https://livecdn.zbds.org/logo/广西卫视.png" epg-url="https://epg.zbds.top",广西卫视
+http://150.138.8.143/00/SNM/CHANNEL00000368/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="黑龙江卫视" tvg-logo="https://livecdn.zbds.org/logo/黑龙江卫视.png" epg-url="https://epg.zbds.top",黑龙江卫视
+http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="四川卫视" tvg-logo="https://livecdn.zbds.org/logo/四川卫视.png" epg-url="https://epg.zbds.top",四川卫视
+http://150.138.8.143/00/SNM/CHANNEL00000348/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="海南卫视" tvg-logo="https://livecdn.zbds.org/logo/海南卫视.png" epg-url="https://epg.zbds.top",海南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000347/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="吉林卫视" tvg-logo="https://livecdn.zbds.org/logo/吉林卫视.png" epg-url="https://epg.zbds.top",吉林卫视
+http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="云南卫视" tvg-logo="https://livecdn.zbds.org/logo/云南卫视.png" epg-url="https://epg.zbds.top",云南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000367/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="甘肃卫视" tvg-logo="https://livecdn.zbds.org/logo/甘肃卫视.png" epg-url="https://epg.zbds.top",甘肃卫视
+http://150.138.8.143/00/SNM/CHANNEL00000349/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="青海卫视" tvg-logo="https://livecdn.zbds.org/logo/青海卫视.png" epg-url="https://epg.zbds.top",青海卫视
+http://150.138.8.143/00/SNM/CHANNEL00000366/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="江西卫视" tvg-logo="https://livecdn.zbds.org/logo/江西卫视.png" epg-url="https://epg.zbds.top",江西卫视
+http://150.138.8.143/00/SNM/CHANNEL00000335/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="河北卫视" tvg-logo="https://livecdn.zbds.org/logo/河北卫视.png" epg-url="https://epg.zbds.top",河北卫视
+http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济南都市" tvg-logo="https://livecdn.zbds.org/logo/济南都市.png" epg-url="https://epg.zbds.top",济南都市
+http://150.138.8.143/00/SNM/CHANNEL00000062/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济南新闻" tvg-logo="https://livecdn.zbds.org/logo/济南新闻.png" epg-url="https://epg.zbds.top",济南新闻
+http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济南生活" tvg-logo="https://livecdn.zbds.org/logo/济南生活.png" epg-url="https://epg.zbds.top",济南生活
+http://150.138.8.143/00/SNM/CHANNEL00000063/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济南影视" tvg-logo="https://livecdn.zbds.org/logo/济南影视.png" epg-url="https://epg.zbds.top",济南影视
+http://150.138.8.143/00/SNM/CHANNEL00000064/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济南娱乐" tvg-logo="https://livecdn.zbds.org/logo/济南娱乐.png" epg-url="https://epg.zbds.top",济南娱乐
+http://150.138.8.143/00/SNM/CHANNEL00000065/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济南少儿" tvg-logo="https://livecdn.zbds.org/logo/济南少儿.png" epg-url="https://epg.zbds.top",济南少儿
+http://150.138.8.143/00/SNM/CHANNEL00000067/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济南教育" tvg-logo="https://livecdn.zbds.org/logo/济南教育.png" epg-url="https://epg.zbds.top",济南教育
+http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济南鲁中" tvg-logo="https://livecdn.zbds.org/logo/济南鲁中.png" epg-url="https://epg.zbds.top",济南鲁中
+http://150.138.8.143/00/SNM/CHANNEL00000244/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济南教育" tvg-logo="https://livecdn.zbds.org/logo/济南教育.png" epg-url="https://epg.zbds.top",济南教育
+http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济南长清新闻" tvg-logo="https://livecdn.zbds.org/logo/济南长清新闻.png" epg-url="https://epg.zbds.top",济南长清新闻
+http://150.138.8.143/00/SNM/CHANNEL00001018/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济南济阳综合 HD" tvg-logo="https://livecdn.zbds.org/logo/济南济阳综合 HD.png" epg-url="https://epg.zbds.top",济南济阳综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001030/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济南平阴综合" tvg-logo="https://livecdn.zbds.org/logo/济南平阴综合.png" epg-url="https://epg.zbds.top",济南平阴综合
+http://150.138.8.143/00/SNM/CHANNEL00001050/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="QTV-1" tvg-logo="https://livecdn.zbds.org/logo/QTV-1.png" epg-url="https://epg.zbds.top",QTV-1
+http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="QTV-2" tvg-logo="https://livecdn.zbds.org/logo/QTV-2.png" epg-url="https://epg.zbds.top",QTV-2
+http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="QTV-3" tvg-logo="https://livecdn.zbds.org/logo/QTV-3.png" epg-url="https://epg.zbds.top",QTV-3
+http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="QTV-4" tvg-logo="https://livecdn.zbds.org/logo/QTV-4.png" epg-url="https://epg.zbds.top",QTV-4
+http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="QTV-5" tvg-logo="https://livecdn.zbds.org/logo/QTV-5.png" epg-url="https://epg.zbds.top",QTV-5
+http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="QTV-6" tvg-logo="https://livecdn.zbds.org/logo/QTV-6.png" epg-url="https://epg.zbds.top",QTV-6
+http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="青岛崂山" tvg-logo="https://livecdn.zbds.org/logo/青岛崂山.png" epg-url="https://epg.zbds.top",青岛崂山
+http://150.138.8.143/00/SNM/CHANNEL00001022/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="青岛平度新闻综合" tvg-logo="https://livecdn.zbds.org/logo/青岛平度新闻综合.png" epg-url="https://epg.zbds.top",青岛平度新闻综合
+http://150.138.8.143/00/SNM/CHANNEL00001054/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="青岛莱西综合 HD" tvg-logo="https://livecdn.zbds.org/logo/青岛莱西综合 HD.png" epg-url="https://epg.zbds.top",青岛莱西综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="日照综合" tvg-logo="https://livecdn.zbds.org/logo/日照综合.png" epg-url="https://epg.zbds.top",日照综合
+http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="日照科教" tvg-logo="https://livecdn.zbds.org/logo/日照科教.png" epg-url="https://epg.zbds.top",日照科教
+http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="日照莒县TV-1" tvg-logo="https://livecdn.zbds.org/logo/日照莒县TV-1.png" epg-url="https://epg.zbds.top",日照莒县TV-1
+http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="日照岚山 HD" tvg-logo="https://livecdn.zbds.org/logo/日照岚山 HD.png" epg-url="https://epg.zbds.top",日照岚山 HD
+http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="日照五莲新闻综合" tvg-logo="https://livecdn.zbds.org/logo/日照五莲新闻综合.png" epg-url="https://epg.zbds.top",日照五莲新闻综合
+http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="潍坊新闻综合" tvg-logo="https://livecdn.zbds.org/logo/潍坊新闻综合.png" epg-url="https://epg.zbds.top",潍坊新闻综合
+http://150.138.8.143/00/SNM/CHANNEL00000215/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="潍坊经济生活" tvg-logo="https://livecdn.zbds.org/logo/潍坊经济生活.png" epg-url="https://epg.zbds.top",潍坊经济生活
+http://150.138.8.143/00/SNM/CHANNEL00000216/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="潍坊寿光新闻" tvg-logo="https://livecdn.zbds.org/logo/潍坊寿光新闻.png" epg-url="https://epg.zbds.top",潍坊寿光新闻
+http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="潍坊寿光蔬菜 HD" tvg-logo="https://livecdn.zbds.org/logo/潍坊寿光蔬菜 HD.png" epg-url="https://epg.zbds.top",潍坊寿光蔬菜 HD
+http://150.138.8.143/00/SNM/CHANNEL00001045/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="潍坊诸城新闻综合" tvg-logo="https://livecdn.zbds.org/logo/潍坊诸城新闻综合.png" epg-url="https://epg.zbds.top",潍坊诸城新闻综合
+http://150.138.8.143/00/SNM/CHANNEL00001004/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="潍坊安丘新闻综合 HD" tvg-logo="https://livecdn.zbds.org/logo/潍坊安丘新闻综合 HD.png" epg-url="https://epg.zbds.top",潍坊安丘新闻综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001015/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="潍坊昌乐新闻综合 HD" tvg-logo="https://livecdn.zbds.org/logo/潍坊昌乐新闻综合 HD.png" epg-url="https://epg.zbds.top",潍坊昌乐新闻综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001033/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="潍坊青州综合 HD" tvg-logo="https://livecdn.zbds.org/logo/潍坊青州综合 HD.png" epg-url="https://epg.zbds.top",潍坊青州综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001042/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="潍坊青州文化旅游 HD" tvg-logo="https://livecdn.zbds.org/logo/潍坊青州文化旅游 HD.png" epg-url="https://epg.zbds.top",潍坊青州文化旅游 HD
+http://150.138.8.143/00/SNM/CHANNEL00001057/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="潍坊昌邑新闻综合 HD" tvg-logo="https://livecdn.zbds.org/logo/潍坊昌邑新闻综合 HD.png" epg-url="https://epg.zbds.top",潍坊昌邑新闻综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001083/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="德州新闻综合" tvg-logo="https://livecdn.zbds.org/logo/德州新闻综合.png" epg-url="https://epg.zbds.top",德州新闻综合
+http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="德州经济生活" tvg-logo="https://livecdn.zbds.org/logo/德州经济生活.png" epg-url="https://epg.zbds.top",德州经济生活
+http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="德州宁津新闻综合 HD" tvg-logo="https://livecdn.zbds.org/logo/德州宁津新闻综合 HD.png" epg-url="https://epg.zbds.top",德州宁津新闻综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="德州武城新闻综合 HD" tvg-logo="https://livecdn.zbds.org/logo/德州武城新闻综合 HD.png" epg-url="https://epg.zbds.top",德州武城新闻综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001059/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="德州武城综艺影视 HD" tvg-logo="https://livecdn.zbds.org/logo/德州武城综艺影视 HD.png" epg-url="https://epg.zbds.top",德州武城综艺影视 HD
+http://150.138.8.143/00/SNM/CHANNEL00001060/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="德州禹城综合 HD" tvg-logo="https://livecdn.zbds.org/logo/德州禹城综合 HD.png" epg-url="https://epg.zbds.top",德州禹城综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001061/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="德州禹城综艺 HD" tvg-logo="https://livecdn.zbds.org/logo/德州禹城综艺 HD.png" epg-url="https://epg.zbds.top",德州禹城综艺 HD
+http://150.138.8.143/00/SNM/CHANNEL00001062/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="德州齐河新闻 HD" tvg-logo="https://livecdn.zbds.org/logo/德州齐河新闻 HD.png" epg-url="https://epg.zbds.top",德州齐河新闻 HD
+http://150.138.8.143/00/SNM/CHANNEL00001056/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="德州平原新闻 HD" tvg-logo="https://livecdn.zbds.org/logo/德州平原新闻 HD.png" epg-url="https://epg.zbds.top",德州平原新闻 HD
+http://150.138.8.143/00/SNM/CHANNEL00001064/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="德州夏津综合 HD" tvg-logo="https://livecdn.zbds.org/logo/德州夏津综合 HD.png" epg-url="https://epg.zbds.top",德州夏津综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001069/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="德州夏津公共 HD" tvg-logo="https://livecdn.zbds.org/logo/德州夏津公共 HD.png" epg-url="https://epg.zbds.top",德州夏津公共 HD
+http://150.138.8.143/00/SNM/CHANNEL00001070/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="德州陵城新闻 HD" tvg-logo="https://livecdn.zbds.org/logo/德州陵城新闻 HD.png" epg-url="https://epg.zbds.top",德州陵城新闻 HD
+http://150.138.8.143/00/SNM/CHANNEL00001082/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="滨州新闻综合" tvg-logo="https://livecdn.zbds.org/logo/滨州新闻综合.png" epg-url="https://epg.zbds.top",滨州新闻综合
+http://150.138.8.143/00/SNM/CHANNEL00000220/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="滨州民生" tvg-logo="https://livecdn.zbds.org/logo/滨州民生.png" epg-url="https://epg.zbds.top",滨州民生
+http://150.138.8.143/00/SNM/CHANNEL00000221/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="滨州惠民综合" tvg-logo="https://livecdn.zbds.org/logo/滨州惠民综合.png" epg-url="https://epg.zbds.top",滨州惠民综合
+http://150.138.8.143/00/SNM/CHANNEL00001009/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="滨州无棣综合 HD" tvg-logo="https://livecdn.zbds.org/logo/滨州无棣综合 HD.png" epg-url="https://epg.zbds.top",滨州无棣综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001024/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="滨州沾化综合" tvg-logo="https://livecdn.zbds.org/logo/滨州沾化综合.png" epg-url="https://epg.zbds.top",滨州沾化综合
+http://150.138.8.143/00/SNM/CHANNEL00001035/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="滨州阳信新闻综合" tvg-logo="https://livecdn.zbds.org/logo/滨州阳信新闻综合.png" epg-url="https://epg.zbds.top",滨州阳信新闻综合
+http://150.138.8.143/00/SNM/CHANNEL00001036/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="滨州好生新闻频道 HD" tvg-logo="https://livecdn.zbds.org/logo/滨州好生新闻频道 HD.png" epg-url="https://epg.zbds.top",滨州好生新闻频道 HD
+http://150.138.8.143/00/SNM/CHANNEL00001058/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="东营新闻综合" tvg-logo="https://livecdn.zbds.org/logo/东营新闻综合.png" epg-url="https://epg.zbds.top",东营新闻综合
+http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="东营公共" tvg-logo="https://livecdn.zbds.org/logo/东营公共.png" epg-url="https://epg.zbds.top",东营公共
+http://150.138.8.143/00/SNM/CHANNEL00000227/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="东营广饶新闻综合 HD" tvg-logo="https://livecdn.zbds.org/logo/东营广饶新闻综合 HD.png" epg-url="https://epg.zbds.top",东营广饶新闻综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001043/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="菏泽新闻" tvg-logo="https://livecdn.zbds.org/logo/菏泽新闻.png" epg-url="https://epg.zbds.top",菏泽新闻
+http://150.138.8.143/00/SNM/CHANNEL00000232/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="菏泽公共" tvg-logo="https://livecdn.zbds.org/logo/菏泽公共.png" epg-url="https://epg.zbds.top",菏泽公共
+http://150.138.8.143/00/SNM/CHANNEL00000234/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="菏泽郓城新闻 HD" tvg-logo="https://livecdn.zbds.org/logo/菏泽郓城新闻 HD.png" epg-url="https://epg.zbds.top",菏泽郓城新闻 HD
+http://150.138.8.143/00/SNM/CHANNEL00001041/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="菏泽莘县TV-1 HD" tvg-logo="https://livecdn.zbds.org/logo/菏泽莘县TV-1 HD.png" epg-url="https://epg.zbds.top",菏泽莘县TV-1 HD
+http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="菏泽定陶TV-1 HD" tvg-logo="https://livecdn.zbds.org/logo/菏泽定陶TV-1 HD.png" epg-url="https://epg.zbds.top",菏泽定陶TV-1 HD
+http://150.138.8.143/00/SNM/CHANNEL00001063/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="菏泽东明TV-1" tvg-logo="https://livecdn.zbds.org/logo/菏泽东明TV-1.png" epg-url="https://epg.zbds.top",菏泽东明TV-1
+http://150.138.8.143/00/SNM/CHANNEL00001065/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="菏泽单县综合 HD" tvg-logo="https://livecdn.zbds.org/logo/菏泽单县综合 HD.png" epg-url="https://epg.zbds.top",菏泽单县综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001079/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="聊城综合" tvg-logo="https://livecdn.zbds.org/logo/聊城综合.png" epg-url="https://epg.zbds.top",聊城综合
+http://150.138.8.143/00/SNM/CHANNEL00000250/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="聊城民生" tvg-logo="https://livecdn.zbds.org/logo/聊城民生.png" epg-url="https://epg.zbds.top",聊城民生
+http://150.138.8.143/00/SNM/CHANNEL00000251/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="聊城冠县综合" tvg-logo="https://livecdn.zbds.org/logo/聊城冠县综合.png" epg-url="https://epg.zbds.top",聊城冠县综合
+http://150.138.8.143/00/SNM/CHANNEL00001040/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="聊城茌平综合 HD" tvg-logo="https://livecdn.zbds.org/logo/聊城茌平综合 HD.png" epg-url="https://epg.zbds.top",聊城茌平综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001048/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济宁综合" tvg-logo="https://livecdn.zbds.org/logo/济宁综合.png" epg-url="https://epg.zbds.top",济宁综合
+http://150.138.8.143/00/SNM/CHANNEL00000240/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济宁生活" tvg-logo="https://livecdn.zbds.org/logo/济宁生活.png" epg-url="https://epg.zbds.top",济宁生活
+http://150.138.8.143/00/SNM/CHANNEL00000239/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济宁公共" tvg-logo="https://livecdn.zbds.org/logo/济宁公共.png" epg-url="https://epg.zbds.top",济宁公共
+http://150.138.8.143/00/SNM/CHANNEL00000241/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济宁兖州新闻 HD" tvg-logo="https://livecdn.zbds.org/logo/济宁兖州新闻 HD.png" epg-url="https://epg.zbds.top",济宁兖州新闻 HD
+http://150.138.8.143/00/SNM/CHANNEL00001051/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济宁曲阜新闻综合 HD" tvg-logo="https://livecdn.zbds.org/logo/济宁曲阜新闻综合 HD.png" epg-url="https://epg.zbds.top",济宁曲阜新闻综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001052/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="济宁梁山新闻综合 HD" tvg-logo="https://livecdn.zbds.org/logo/济宁梁山新闻综合 HD.png" epg-url="https://epg.zbds.top",济宁梁山新闻综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001075/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="临沂蒙阴TV-1" tvg-logo="https://livecdn.zbds.org/logo/临沂蒙阴TV-1.png" epg-url="https://epg.zbds.top",临沂蒙阴TV-1
+http://150.138.8.143/00/SNM/CHANNEL00001031/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="临沂兰陵综合 HD" tvg-logo="https://livecdn.zbds.org/logo/临沂兰陵综合 HD.png" epg-url="https://epg.zbds.top",临沂兰陵综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001032/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="烟台新闻" tvg-logo="https://livecdn.zbds.org/logo/烟台新闻.png" epg-url="https://epg.zbds.top",烟台新闻
+http://150.138.8.143/00/SNM/CHANNEL00000280/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="烟台公共" tvg-logo="https://livecdn.zbds.org/logo/烟台公共.png" epg-url="https://epg.zbds.top",烟台公共
+http://150.138.8.143/00/SNM/CHANNEL00000281/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="烟台经济科技" tvg-logo="https://livecdn.zbds.org/logo/烟台经济科技.png" epg-url="https://epg.zbds.top",烟台经济科技
+http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="烟台影视" tvg-logo="https://livecdn.zbds.org/logo/烟台影视.png" epg-url="https://epg.zbds.top",烟台影视
+http://150.138.8.143/00/SNM/CHANNEL00000283/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="烟台栖霞综合" tvg-logo="https://livecdn.zbds.org/logo/烟台栖霞综合.png" epg-url="https://epg.zbds.top",烟台栖霞综合
+http://150.138.8.143/00/SNM/CHANNEL00001055/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="烟台牟平新闻" tvg-logo="https://livecdn.zbds.org/logo/烟台牟平新闻.png" epg-url="https://epg.zbds.top",烟台牟平新闻
+http://150.138.8.143/00/SNM/CHANNEL00001076/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="烟台牟平生活" tvg-logo="https://livecdn.zbds.org/logo/烟台牟平生活.png" epg-url="https://epg.zbds.top",烟台牟平生活
+http://150.138.8.143/00/SNM/CHANNEL00001077/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="泰安东平新闻 HD" tvg-logo="https://livecdn.zbds.org/logo/泰安东平新闻 HD.png" epg-url="https://epg.zbds.top",泰安东平新闻 HD
+http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="泰安新泰新闻综合 HD" tvg-logo="https://livecdn.zbds.org/logo/泰安新泰新闻综合 HD.png" epg-url="https://epg.zbds.top",泰安新泰新闻综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001029/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="泰安新泰乡村 HD" tvg-logo="https://livecdn.zbds.org/logo/泰安新泰乡村 HD.png" epg-url="https://epg.zbds.top",泰安新泰乡村 HD
+http://150.138.8.143/00/SNM/CHANNEL00001066/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="泰安宁阳-1 HD" tvg-logo="https://livecdn.zbds.org/logo/泰安宁阳-1 HD.png" epg-url="https://epg.zbds.top",泰安宁阳-1 HD
+http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="泰安宁阳-2" tvg-logo="https://livecdn.zbds.org/logo/泰安宁阳-2.png" epg-url="https://epg.zbds.top",泰安宁阳-2
+http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="淄博公共 HD" tvg-logo="https://livecdn.zbds.org/logo/淄博公共 HD.png" epg-url="https://epg.zbds.top",淄博公共 HD
+http://150.138.8.143/00/SNM/CHANNEL00001037/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="淄博新闻" tvg-logo="https://livecdn.zbds.org/logo/淄博新闻.png" epg-url="https://epg.zbds.top",淄博新闻
+http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="淄博文旅" tvg-logo="https://livecdn.zbds.org/logo/淄博文旅.png" epg-url="https://epg.zbds.top",淄博文旅
+http://150.138.8.143/00/SNM/CHANNEL00000293/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="淄博民生" tvg-logo="https://livecdn.zbds.org/logo/淄博民生.png" epg-url="https://epg.zbds.top",淄博民生
+http://150.138.8.143/00/SNM/CHANNEL00000294/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="淄博沂源新闻" tvg-logo="https://livecdn.zbds.org/logo/淄博沂源新闻.png" epg-url="https://epg.zbds.top",淄博沂源新闻
+http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="淄博桓台TV-1" tvg-logo="https://livecdn.zbds.org/logo/淄博桓台TV-1.png" epg-url="https://epg.zbds.top",淄博桓台TV-1
+http://150.138.8.143/00/SNM/CHANNEL00001020/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="威海乳山TV-1 HD" tvg-logo="https://livecdn.zbds.org/logo/威海乳山TV-1 HD.png" epg-url="https://epg.zbds.top",威海乳山TV-1 HD
+http://150.138.8.143/00/SNM/CHANNEL00001049/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="威海荣成综合 HD" tvg-logo="https://livecdn.zbds.org/logo/威海荣成综合 HD.png" epg-url="https://epg.zbds.top",威海荣成综合 HD
+http://150.138.8.143/00/SNM/CHANNEL00001053/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="三沙卫视" tvg-logo="https://livecdn.zbds.org/logo/三沙卫视.png" epg-url="https://epg.zbds.top",三沙卫视
+http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="中国交通" tvg-logo="https://livecdn.zbds.org/logo/中国交通.png" epg-url="https://epg.zbds.top",中国交通
+http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CGTN" tvg-logo="https://livecdn.zbds.org/logo/CGTN.png" epg-url="https://epg.zbds.top",CGTN
+http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CGTN西语" tvg-logo="https://livecdn.zbds.org/logo/CGTN西语.png" epg-url="https://epg.zbds.top",CGTN西语
+http://150.138.8.143/00/SNM/CHANNEL00000354/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CGTN法语" tvg-logo="https://livecdn.zbds.org/logo/CGTN法语.png" epg-url="https://epg.zbds.top",CGTN法语
+http://150.138.8.143/00/SNM/CHANNEL00000355/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CGTN阿语" tvg-logo="https://livecdn.zbds.org/logo/CGTN阿语.png" epg-url="https://epg.zbds.top",CGTN阿语
+http://150.138.8.143/00/SNM/CHANNEL00000356/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CGTN俄语" tvg-logo="https://livecdn.zbds.org/logo/CGTN俄语.png" epg-url="https://epg.zbds.top",CGTN俄语
+http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="CGTN纪录" tvg-logo="https://livecdn.zbds.org/logo/CGTN纪录.png" epg-url="https://epg.zbds.top",CGTN纪录
+http://150.138.8.143/00/SNM/CHANNEL00000353/index.m3u8
+#EXTINF:-1 group-title="未分类" tvg-name="海洋频道" tvg-logo="https://livecdn.zbds.org/logo/海洋频道.png" epg-url="https://epg.zbds.top",海洋频道
+http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8
